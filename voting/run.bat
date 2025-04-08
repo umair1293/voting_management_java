@@ -1,0 +1,3 @@
+@echo off
+echo Running Voting System Application...
+java -cp "D:\Documents\downloads\voting-20250402T112629Z-001\voting\bin;D:\Documents\downloads\voting-20250402T112629Z-001\voting\lib\mysql-connector-j-9.2.0.jar" voting.VotingSystemGUI 
